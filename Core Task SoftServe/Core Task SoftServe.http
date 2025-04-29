@@ -1,0 +1,6 @@
+@Core_Task_SoftServe_HostAddress = http://localhost:5163
+
+GET {{Core_Task_SoftServe_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
